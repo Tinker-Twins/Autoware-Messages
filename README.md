@@ -2,7 +2,7 @@
 
 ![Autoware](https://user-images.githubusercontent.com/63835446/158918717-58d6deaf-93fb-47f9-891d-e242b02cba7b.png)
 
-Autoware stack message definitions for debugging, publishing, and subscribing data from Autoware stack.
+Autoware stack message definitions for debugging, publishing, subscribing, echoing, analyzing, visualizing, and recording data from Autoware-enabled systems.
 
 ## Installation:
 1. Make a directory `ROS2_WS` to act as your ROS 2 workspace.
