@@ -6,5 +6,7 @@ Autoware stack message definitions for debugging, publishing, and subscribing da
 
 Tested with local (source) as well as Docker installations.
 
-### References:
+> **Note:** Ignore the warnings regarding packages having `stderr output`.
+
+## References:
 https://autowarefoundation.github.io/autoware-documentation/main
