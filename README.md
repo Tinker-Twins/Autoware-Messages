@@ -29,7 +29,7 @@ Autoware stack message definitions for debugging, publishing, and subscribing da
 ## Usage:
 With the Autoware stack message definitions built and the workspace sourced, the messages published (live or from pre-recorded bag files) from Autoware-enabled systems can be subscribed, echoed, analyzed, visualized, and (re)recorded (bag, csv, etc.).
 
-This workflow has been successfully tested with local (source) as well as Docker installations of Autoware with ROS 2 Galactic and Humble distributions.
+This workflow has been successfully tested with local (source) as well as Docker installations of [Autoware](https://autoware.org/) with ROS 2 [Galactic](https://docs.ros.org/en/galactic/index.html) and [Humble](https://docs.ros.org/en/humble/index.html) distributions.
 
 ## References:
 - For Autoware's general documentation, see [Autoware Documentation](https://autowarefoundation.github.io/autoware-documentation/).
@@ -41,3 +41,5 @@ This workflow has been successfully tested with local (source) as well as Docker
   - [Autoware Docker Installation](https://autowarefoundation.github.io/autoware-documentation/main/installation/autoware/docker-installation/)
     - [Quick Start Version Installation](https://autowarefoundation.github.io/autoware-documentation/main/installation/autoware/docker-installation-prebuilt/)
     - [Development Version Installation](https://autowarefoundation.github.io/autoware-documentation/main/installation/autoware/docker-installation-devel/)
+
+- For the official Docker installation guide, see [Get Docker](https://docs.docker.com/get-docker/), and particularly for Ubuntu, see [Docker Ubuntu Installation](https://docs.docker.com/desktop/install/ubuntu/).
