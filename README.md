@@ -24,7 +24,7 @@ Autoware stack message definitions for debugging, publishing, subscribing, echoi
     $ source ~/.bashrc
     ```
 
-> **Note:** You can ignore the `stderr` warnings during the `colcon` build process (if any).
+> **Note:** You can ignore the `stderr` warnings (if any) during the `colcon` build process.
 
 ## Usage:
 With the Autoware stack message definitions built and the workspace sourced, the messages published (live or from pre-recorded bag files) from Autoware-enabled systems can be subscribed, echoed, analyzed, visualized, and (re)recorded (bag, csv, etc.).
